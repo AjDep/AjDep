@@ -8,7 +8,7 @@ CS undergrad · Robotics researcher · Frontend enthusiast based in Colombo 🇱
 
 Final-year BSc Computer Science student at IIT (University of Westminster affiliate). My work sits at the intersection of computer vision, robotics, and backend systems — with a genuine love for clean frontend design on the side.
 
-I published at **IEEE ISDFS 2026** on vision-based robot imitation using MediaPipe and Kalman filtering. Currently building toward roles where I can ship things that matter.
+I published at **IEEE ISDFS 2026** on vision-based robot imitation using OpenCV and Kalman filtering. Currently building toward roles where I can ship things that matter.
 
 ---
 

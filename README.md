@@ -1,47 +1,47 @@
-# Hi, I'm Anjana 👋
 
-CS undergrad · Robotics researcher · Frontend enthusiast based in Colombo 🇱🇰
 
----
+# Hey, I'm Anjana 👋
 
-## About
+  CS undergrad  ·  Robotics researcher  ·  Full-stack dev
+  Informatics Institute of Technology, affiliated with University of Westminster
 
-Final-year BSc Computer Science student at IIT (University of Westminster affiliate). My work sits at the intersection of computer vision, robotics, and backend systems — with a genuine love for clean frontend design on the side.
-
-I published at **IEEE ISDFS 2026** on vision-based robot imitation using OpenCV and Kalman filtering. Currently building toward roles where I can ship things that matter.
 
 ---
 
-## What I work with
+### About me
+
+I'm a final-year CS student who built a **vision-based robotic arm imitation system** from scratch — no GPU, no training data, no inverse kinematics.  
+Just deterministic pose estimation, Kalman filtering, and servo control on an ESP32. That work became an **IEEE ISDFS 2026 publication**.
+
+I lean full-stack — I learned backend not because I had to, but because I didn't want to depend on anyone to ship a complete system.
+
+> 💡 **On my commit graph:** I batch all my changes and push once I'm done for the day — that's just how I work. My professional work also lives on a separate company GitHub that isn't linked here. What you see here is personal project work, pushed the way I actually code.
+
+---
+
+### 📄 IEEE Publication · ISDFS 2026
+
+**[Vision-Based Learning from Demonstration for Robotic Arm Imitation Using MediaPipe and Kalman Filtering](https://ieeexplore.ieee.org/document/11458919)**  
+No GPU · No IK solver · No training data · ESP32 actuated · 57.3 ms mean latency · 40%+ Kalman variance reduction across all joints
+
+---
+
+### 🎥 Project videos
 
 | | |
 |---|---|
-| **Backend** | Java · Spring Boot · GraphQL · REST APIs |
-| **Frontend** | HTML · CSS · React · Animation |
-| **Research / CV** | Python · MediaPipe · OpenCV · ESP32 |
-| **Tools** | Git · Docker · Azure · Microsoft certified |
+| [![Build log](https://img.youtube.com/vi/QGitKES2FC4/mqdefault.jpg)](https://youtu.be/QGitKES2FC4) | [![Problem background](https://img.youtube.com/vi/axP7309QNVk/mqdefault.jpg)](https://youtu.be/axP7309QNVk) |
+| **Building the 4-DOF robotic arm** | **Problem background + custom animations** |
+| [![Demo](https://img.youtube.com/vi/dgNOPmJfPf0/mqdefault.jpg)](https://youtu.be/dgNOPmJfPf0) | |
+| **Live project demo** | |
 
 ---
 
-## Featured projects
+### 🛠 Stack
 
-**[Vision-Based Robotic Arm Imitation System]()**
-4-DOF servo arm that mirrors human hand movement in real time. Uses MediaPipe pose estimation + Kalman filtering to smooth joint angles before sending commands to an ESP32. Published at IEEE ISDFS 2026.
-
-**[Business Automation System]()**
-Full-stack enterprise workflow app built with Java and Spring Boot. REST API backend, clean UI, role-based access.
-
-**[Hospital Management System — Hsenid internship]()**
-Production-level system for a Japanese enterprise client. Integrated GraphQL APIs, coordinated directly with the client team on requirements and delivery.
+`Python` `MediaPipe` `OpenCV` `ESP32 / C++` `Java` `Spring Boot` `GraphQL` `React` `HTML / CSS` `Node.js` `MongoDB` `Kalman Filter`
 
 ---
 
-## Currently
 
-- Finalising BSc thesis on Learning from Demonstration for robotic manipulation
-- Exploring mobile manipulation with the Unitree Go2 Edu robot (WSO2 grant proposal)
-- Open to backend / full-stack roles in Sri Lanka or remote
-
----
-
-📫 Reach me on [LinkedIn]() · 📄 IEEE paper: ISDFS 2026
+  

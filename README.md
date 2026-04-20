@@ -26,16 +26,11 @@ No GPU · No IK solver · No training data · ESP32 actuated · 57.3 ms mean lat
 
 ---
 
-### 🎥 Project videos
+# 🎥 Featured YouTube Videos
 
-| | |
-|---|---|
-| [![Build log](https://img.youtube.com/vi/QGitKES2FC4/mqdefault.jpg)](https://youtu.be/QGitKES2FC4) | [![Problem background](https://img.youtube.com/vi/axP7309QNVk/mqdefault.jpg)](https://youtu.be/axP7309QNVk) |
-| **Building the 4-DOF robotic arm** | **Problem background + custom animations** |
-| [![Demo](https://img.youtube.com/vi/dgNOPmJfPf0/mqdefault.jpg)](https://youtu.be/dgNOPmJfPf0) | |
-| **Live project demo** | |
-
----
+[![Real-Time Vision-Based Robotic Arm Control | 4-DOF Prototype Demonstration](https://ytcards.demolab.com/?id=dgNOPmJfPf0&title=Real-Time+Vision-Based+Robotic+Arm+Control+%7C+4-DOF+Prototype+Demonstration&lang=en&timestamp=1771804800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195 "Real-Time Vision-Based Robotic Arm Control | 4-DOF Prototype Demonstration")](https://youtu.be/dgNOPmJfPf0)
+[![Rethinking Robotic Automation for Small Businesses](https://ytcards.demolab.com/?id=axP7309QNVk&title=Rethinking+Robotic+Automation+for+Small+Businesses&lang=en&timestamp=1771804800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=88 "Rethinking Robotic Automation for Small Businesses")](https://youtu.be/axP7309QNVk)
+[![Building a Robotic Arm from Scratch](https://ytcards.demolab.com/?id=QGitKES2FC4&title=Building+a+Robotic+Arm+from+Scratch&lang=en&timestamp=1755302400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149 "Building a Robotic Arm from Scratch")](https://youtu.be/QGitKES2FC4)
 
 ### 🛠 Stack
 

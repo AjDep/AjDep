@@ -19,11 +19,22 @@ I lean full-stack — I learned backend not because I had to, but because I didn
 
 ---
 
-### 📄 IEEE Publication · ISDFS 2026
+# 📄 Research Publication
 
-**[Vision-Based Learning from Demonstration for Robotic Arm Imitation Using MediaPipe and Kalman Filtering](https://ieeexplore.ieee.org/document/11458919)**  
-No GPU · No IK solver · No training data · ESP32 actuated · 57.3 ms mean latency · 40%+ Kalman variance reduction across all joints
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11458919)
 
+**[Vision-Based Learning from Demonstration for Robotic Arm Imitation Using MediaPipe and Kalman Filtering](https://ieeexplore.ieee.org/document/11458919)**
+
+| | |
+|---|---|
+| **Conference** | 14th International Symposium on Digital Forensics and Security (ISDFS) |
+| **Conference Date** | 19–20 March 2026 |
+| **Added to IEEE Xplore** | 08 April 2026 |
+| **Conference Location** | Boston, MA, USA |
+| **DOI** | [10.1109/ISDFS69419.2026.11458919](https://doi.org/10.1109/ISDFS69419.2026.11458919) |
+| **Publisher** | IEEE |
+| **Electronic ISBN** | 979-8-3315-7310-2 |
+| **Electronic ISSN** | 2768-1831 |
 ---
 
 # 🎥 Featured YouTube Videos

@@ -1,11 +1,6 @@
 
 
-# Hey, I'm Anjana 👋
-
-  CS undergrad  ·  Robotics researcher  ·  Full-stack dev
-  Informatics Institute of Technology, affiliated with University of Westminster
-
-
+# Hey, I'm Anjana Dep 👋
 ---
 
 ### About me

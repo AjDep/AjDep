@@ -4,7 +4,7 @@
 
 ### About me
 
-Im Anjana Dep , I intend close the gap between software and electronics by making low code solutions , So every one can be part of the digital and Industrial 4 revolution. Hoping to make a dent in the Universe keep up with me.
+Im Anjana Dep , I intend close the gap between software and electronics by making low code solutions , So every one can be part of the digital and Industrial 4 revolution. Hoping to make a dent in the Universe keep up with me from the following media platforms below 👇.
 <p align="left">
   <a href="mailto:w.anjanadep@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-w.anjanadep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

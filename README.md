@@ -1,7 +1,6 @@
 
 
 # Hey, I'm Anjana Dep 👋
----
 
 ### About me
 

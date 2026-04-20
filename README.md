@@ -5,10 +5,7 @@
 
 ### About me
 
-I'm a final-year CS student who built a **vision-based robotic arm imitation system** from scratch — no GPU, no training data, no inverse kinematics.  
-Just deterministic pose estimation, Kalman filtering, and servo control on an ESP32. That work became an **IEEE ISDFS 2026 publication**.
-
-I lean full-stack — I learned backend not because I had to, but because I didn't want to depend on anyone to ship a complete system.
+Im Anjana Dep , I intend close the gap between software and electronics by making low code solutions , So every one can be part of the digital and Industrial 4 revolution. Hoping to make a dent in the Universe keep up with me.
 
 > 💡 **On my commit graph:** I batch all my changes and push once I'm done for the day — that's just how I work. My professional work also lives on a separate company GitHub that isn't linked here. What you see here is personal project work, pushed the way I actually code.
 

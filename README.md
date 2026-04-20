@@ -19,7 +19,10 @@ Im Anjana Dep , I intend close the gap between software and electronics by makin
   </a>
 </p>
 
-> 💡 **On my commit graph:** I batch all my changes and push once I'm done for the day — that's just how I work. My professional work also lives on a separate company GitHub that isn't linked here. What you see here is personal project work, pushed the way I actually code.
+> 💡
+> 🔧 Low commit count? Here's why — I push once I'm done for the day, not after every change.
+> My work at Hsenid runs on a separate company GitHub that isn't linked to this profile.
+> What you see here is personal project work only.
 
 ---
 

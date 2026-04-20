@@ -6,7 +6,21 @@
 ### About me
 
 Im Anjana Dep , I intend close the gap between software and electronics by making low code solutions , So every one can be part of the digital and Industrial 4 revolution. Hoping to make a dent in the Universe keep up with me.
+# 📬 Get in Touch
 
+<p align="left">
+  <a href="mailto:w.anjanadep@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-w.anjanadep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anjanadep/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anjana%20Deepthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@AnjanaDep">
+    <img src="https://img.shields.io/badge/YouTube-AnjanaDep-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 > 💡 **On my commit graph:** I batch all my changes and push once I'm done for the day — that's just how I work. My professional work also lives on a separate company GitHub that isn't linked here. What you see here is personal project work, pushed the way I actually code.
 
 ---
